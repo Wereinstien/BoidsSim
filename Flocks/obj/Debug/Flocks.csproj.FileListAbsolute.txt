@@ -1,0 +1,12 @@
+D:\Visual Studio\Boids\Flocks\bin\Debug\Flocks.exe.config
+D:\Visual Studio\Boids\Flocks\bin\Debug\Flocks.exe
+D:\Visual Studio\Boids\Flocks\bin\Debug\Flocks.pdb
+D:\Visual Studio\Boids\Flocks\bin\Debug\Boid.dll
+D:\Visual Studio\Boids\Flocks\bin\Debug\Boid.pdb
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.Flock.resources
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.Properties.Resources.resources
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.csproj.GenerateResource.Cache
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.exe
+D:\Visual Studio\Boids\Flocks\obj\Debug\Flocks.pdb
